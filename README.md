@@ -5,3 +5,4 @@
 
 [LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation](http://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf)
 
+[Time, Clocks, and the Ordering of Events in a Distributed System](https://www.cs.cmu.edu/~15712/papers//lamport78.pdf)
