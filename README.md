@@ -1,25 +1,25 @@
 # papers
-[End-to-end argument in system design.](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
+[Saltzer, J. H., Reed, D. P., & Clark, D. D. (1984). End-to-end arguments in system design. ACM Transactions on Computer Systems (TOCS), 2(4), 277-288.](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
 
-[Types, abstraction, and parametric polymorphism.](http://www.cse.chalmers.se/edu/year/2010/course/DAT140_Types/Reynolds_typesabpara.pdf)
+[Reynolds, J. C. (1983). Types, abstraction and parametric polymorphism.](http://www.cse.chalmers.se/edu/year/2010/course/DAT140_Types/Reynolds_typesabpara.pdf)
 
-[LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation.](http://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf)
+[Lattner, C., & Adve, V. (2004, March). LLVM: A compilation framework for lifelong program analysis & transformation. In Proceedings of the international symposium on Code generation and optimization: feedback-directed and runtime optimization (p. 75). IEEE Computer Society.](http://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf)
 
-[Time, Clocks, and the Ordering of Events in a Distributed System.](https://www.cs.cmu.edu/~15712/papers//lamport78.pdf)
+[Lamport, L. (1978). Time, clocks, and the ordering of events in a distributed system. Communications of the ACM, 21(7), 558-565.](https://www.cs.cmu.edu/~15712/papers//lamport78.pdf)
 
-[A Case for Redundant Arrays of Inexpensive Disks (RAID).](https://web.eecs.umich.edu/~pmchen/papers/chen94_1.pdf)
+[Patterson, D. A., Gibson, G., & Katz, R. H. (1988). A case for redundant arrays of inexpensive disks (RAID) (Vol. 17, No. 3, pp. 109-116). ACM.](https://web.eecs.umich.edu/~pmchen/papers/chen94_1.pdf)
 
-[MapReduce: Simplified Data Processing on Large Clusters.](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+[Dean, J., & Ghemawat, S. (2008). MapReduce: simplified data processing on large clusters. Communications of the ACM, 51(1), 107-113.](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 
-[The Google File System.](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+[Ghemawat, S., Gobioff, H., & Leung, S. T. (2003). The Google file system (Vol. 37, No. 5, pp. 29-43). ACM.](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 
-[The Tail at Scale.](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf)
+[Dean, J., & Barroso, L. A. (2013). The tail at scale. Communications of the ACM, 56(2), 74-80.](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf)
 
-[Shared Memory Consistency Models: A Tutorial.](http://www.hpl.hp.com/techreports/Compaq-DEC/WRL-95-7.pdf)
+[Adve, S. V., & Gharachorloo, K. (1996). Shared memory consistency models: A tutorial. computer, 29(12), 66-76.](http://www.hpl.hp.com/techreports/Compaq-DEC/WRL-95-7.pdf)
 
-[The Formulae-as-Types Notion of Construction.](https://www.cs.cmu.edu/~crary/819-f09/Howard80.pdf)
+[Howard, W. A. (1980). The formulae-as-types notion of construction. To HB Curry: essays on combinatory logic, lambda calculus and formalism, 44, 479-490.](https://www.cs.cmu.edu/~crary/819-f09/Howard80.pdf)
 
-[Some Properties of Conversion.](https://www.cs.cmu.edu/~crary/819-f09/ChurchRosser36.pdf)
+[Church, A., & Rosser, J. B. (1936). Some properties of conversion. Transactions of the American Mathematical Society, 39(3), 472-482.](https://www.cs.cmu.edu/~crary/819-f09/ChurchRosser36.pdf)
 
 # books
 
