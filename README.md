@@ -18,3 +18,12 @@
 [Introduction to Algorithms (CLOS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_3?s=books&ie=UTF8&qid=1547685599&sr=1-3&keywords=algorithm)
 
 [Computer Systems: A Programmer's Perspective (Randal E. Bryant)](https://www.amazon.com/Computer-Systems-Programmers-Perspective-2nd/dp/0136108040/ref=sr_1_4?s=books&ie=UTF8&qid=1547685711&sr=1-4&keywords=Computer+Systems%3A+A+Programmer%27s+Perspective)
+
+# ~~worthless books or papers~~
+
+~~[Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)~~
+
+~~[The Dragon Book](https://www.amazon.com/Compilers-Principles-Techniques-Alfred-Aho-ebook/dp/B009TGD06W)~~
+
+~~[Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
+
