@@ -25,5 +25,5 @@
 
 ~~[The Dragon Book](https://www.amazon.com/Compilers-Principles-Techniques-Alfred-Aho-ebook/dp/B009TGD06W)~~
 
-~~[Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
+~~[Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)~~
 
