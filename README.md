@@ -1,21 +1,25 @@
 # papers
-[End-to-end argument in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
+[End-to-end argument in system design.](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
 
-[Types, abstraction, and parametric polymorphism](http://www.cse.chalmers.se/edu/year/2010/course/DAT140_Types/Reynolds_typesabpara.pdf)
+[Types, abstraction, and parametric polymorphism.](http://www.cse.chalmers.se/edu/year/2010/course/DAT140_Types/Reynolds_typesabpara.pdf)
 
-[LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation](http://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf)
+[LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation.](http://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf)
 
-[Time, Clocks, and the Ordering of Events in a Distributed System](https://www.cs.cmu.edu/~15712/papers//lamport78.pdf)
+[Time, Clocks, and the Ordering of Events in a Distributed System.](https://www.cs.cmu.edu/~15712/papers//lamport78.pdf)
 
-[A Case for Redundant Arrays of Inexpensive Disks (RAID)](https://web.eecs.umich.edu/~pmchen/papers/chen94_1.pdf)
+[A Case for Redundant Arrays of Inexpensive Disks (RAID).](https://web.eecs.umich.edu/~pmchen/papers/chen94_1.pdf)
 
-[MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+[MapReduce: Simplified Data Processing on Large Clusters.](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 
-[The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+[The Google File System.](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 
-[The Tail at Scale](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf)
+[The Tail at Scale.](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf)
 
-[Shared Memory Consistency Models: A Tutorial](http://www.hpl.hp.com/techreports/Compaq-DEC/WRL-95-7.pdf)
+[Shared Memory Consistency Models: A Tutorial.](http://www.hpl.hp.com/techreports/Compaq-DEC/WRL-95-7.pdf)
+
+[The Formulae-as-Types Notion of Construction.](https://www.cs.cmu.edu/~crary/819-f09/Howard80.pdf)
+
+[Some Properties of Conversion.](https://www.cs.cmu.edu/~crary/819-f09/ChurchRosser36.pdf)
 
 # books
 
