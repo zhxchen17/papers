@@ -15,7 +15,7 @@
 
 [The Tail at Scale](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf)
 
-[Memory consistency and event ordering in scalable shared-memory multiprocessors](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.17.8112&rep=rep1&type=pdf)
+[Shared Memory Consistency Models: A Tutorial](http://www.hpl.hp.com/techreports/Compaq-DEC/WRL-95-7.pdf)
 
 # books
 
