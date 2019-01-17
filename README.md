@@ -9,6 +9,12 @@
 
 [A Case for Redundant Arrays of Inexpensive Disks (RAID)](https://web.eecs.umich.edu/~pmchen/papers/chen94_1.pdf)
 
+[MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+
+[The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+
+[The Tail at Scale](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf)
+
 # books
 
 [The "BSD" Book (Marshall Kirk McKusick)](https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972/ref=sr_1_1?s=books&ie=UTF8&qid=1547685441&sr=1-1&keywords=design+and+implementation+of+freebsd)
