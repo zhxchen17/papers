@@ -23,7 +23,7 @@
 
 [Types and Programming Languages (Benjamin C. Pierce)](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091/ref=sr_1_6?s=books&ie=UTF8&qid=1547685486&sr=1-6&keywords=programming+language)
 
-[The "Love" Book](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468/ref=sr_1_3?s=books&ie=UTF8&qid=1547687333&sr=1-3&keywords=linux+kernel)
+[The "Love" Book (Robert Love)](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468/ref=sr_1_3?s=books&ie=UTF8&qid=1547687333&sr=1-3&keywords=linux+kernel)
 
 [Introduction to Algorithms (CLOS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_3?s=books&ie=UTF8&qid=1547685599&sr=1-3&keywords=algorithm)
 
