@@ -1,3 +1,7 @@
+# context
+
+Classical materials collection on theoretical computer science, or computer systems research, working in progress.
+
 # papers
 
 [Adve, S. V., & Gharachorloo, K. (1996). Shared memory consistency models: A tutorial. computer, 29(12), 66-76.](http://www.hpl.hp.com/techreports/Compaq-DEC/WRL-95-7.pdf)
