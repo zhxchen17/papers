@@ -17,4 +17,4 @@
 
 [Introduction to Algorithms (CLOS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_3?s=books&ie=UTF8&qid=1547685599&sr=1-3&keywords=algorithm)
 
-[CSAPP (Randal E. Bryant)](https://www.amazon.com/Computer-Systems-Programmers-Perspective-2nd/dp/0136108040/ref=sr_1_4?s=books&ie=UTF8&qid=1547685711&sr=1-4&keywords=Computer+Systems%3A+A+Programmer%27s+Perspective)
+[Computer Systems: A Programmer's Perspective (Randal E. Bryant)](https://www.amazon.com/Computer-Systems-Programmers-Perspective-2nd/dp/0136108040/ref=sr_1_4?s=books&ie=UTF8&qid=1547685711&sr=1-4&keywords=Computer+Systems%3A+A+Programmer%27s+Perspective)
