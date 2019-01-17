@@ -15,6 +15,8 @@
 
 [The Tail at Scale](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf)
 
+[Memory consistency and event ordering in scalable shared-memory multiprocessors](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.17.8112&rep=rep1&type=pdf)
+
 # books
 
 [The "BSD" Book (Marshall Kirk McKusick)](https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972/ref=sr_1_1?s=books&ie=UTF8&qid=1547685441&sr=1-1&keywords=design+and+implementation+of+freebsd)
@@ -33,3 +35,4 @@
 
 ~~[Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)~~
 
+~~[Database System Concepts](https://www.amazon.com/Database-Concepts-Abraham-Silberschatz-Professor/dp/0073523321/ref=sr_1_6?s=books&ie=UTF8&qid=1547687241&sr=1-6&keywords=database)
