@@ -6,6 +6,8 @@ Classical materials collection on theoretical computer science, or computer syst
 
 [Adve, S. V., & Gharachorloo, K. (1996). Shared memory consistency models: A tutorial. computer, 29(12), 66-76.](http://www.hpl.hp.com/techreports/Compaq-DEC/WRL-95-7.pdf)
 
+[Allen, F. E., & Cocke, J. (1976). A program data flow analysis procedure. Communications of the ACM, 19(3), 137.](https://amturing.acm.org/p137-allen.pdf)
+
 [Church, A., & Rosser, J. B. (1936). Some properties of conversion. Transactions of the American Mathematical Society, 39(3), 472-482.](https://www.cs.cmu.edu/~crary/819-f09/ChurchRosser36.pdf)
 
 [Dean, J., & Barroso, L. A. (2013). The tail at scale. Communications of the ACM, 56(2), 74-80.](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf)
