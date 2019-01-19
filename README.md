@@ -8,6 +8,8 @@ Classic materials collection on theoretical computer science, or computer system
 
 [Allen, F. E., & Cocke, J. (1976). A program data flow analysis procedure. Communications of the ACM, 19(3), 137.](https://amturing.acm.org/p137-allen.pdf)
 
+[Barham, P., Dragovic, B., Fraser, K., Hand, S., Harris, T., Ho, A., ... & Warfield, A. (2003, October). Xen and the art of virtualization. In ACM SIGOPS operating systems review (Vol. 37, No. 5, pp. 164-177). ACM.](http://www.cs.yale.edu/homes/yu-minlan/teach/csci599-fall12/papers/xen.pdf)
+
 [Church, A., & Rosser, J. B. (1936). Some properties of conversion. Transactions of the American Mathematical Society, 39(3), 472-482.](https://www.cs.cmu.edu/~crary/819-f09/ChurchRosser36.pdf)
 
 [Dean, J., & Barroso, L. A. (2013). The tail at scale. Communications of the ACM, 56(2), 74-80.](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf)
@@ -25,6 +27,8 @@ Classic materials collection on theoretical computer science, or computer system
 [Mohan, C., Haderle, D., Lindsay, B., Pirahesh, H., & Schwarz, P. (1992). ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging. ACM Transactions on Database Systems (TODS), 17(1), 94-162.](http://db.csail.mit.edu/madden/html/aries.pdf)
 
 [Patterson, D. A., Gibson, G., & Katz, R. H. (1988). A case for redundant arrays of inexpensive disks (RAID) (Vol. 17, No. 3, pp. 109-116). ACM.](https://web.eecs.umich.edu/~pmchen/papers/chen94_1.pdf)
+
+[Popek, G. J., & Goldberg, R. P. (1974). Formal requirements for virtualizable third generation architectures. Communications of the ACM, 17(7), 412-421.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.141.4815&rep=rep1&type=pdf)
 
 [Reynolds, J. C. (1983). Types, abstraction and parametric polymorphism.](http://www.cse.chalmers.se/edu/year/2010/course/DAT140_Types/Reynolds_typesabpara.pdf)
 
