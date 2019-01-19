@@ -22,6 +22,8 @@ Classical materials collection on theoretical computer science, or computer syst
 
 [Lamport, L. (1978). Time, clocks, and the ordering of events in a distributed system. Communications of the ACM, 21(7), 558-565.](https://www.cs.cmu.edu/~15712/papers//lamport78.pdf)
 
+[Mohan, C., Haderle, D., Lindsay, B., Pirahesh, H., & Schwarz, P. (1992). ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging. ACM Transactions on Database Systems (TODS), 17(1), 94-162.](http://db.csail.mit.edu/madden/html/aries.pdf)
+
 [Patterson, D. A., Gibson, G., & Katz, R. H. (1988). A case for redundant arrays of inexpensive disks (RAID) (Vol. 17, No. 3, pp. 109-116). ACM.](https://web.eecs.umich.edu/~pmchen/papers/chen94_1.pdf)
 
 [Reynolds, J. C. (1983). Types, abstraction and parametric polymorphism.](http://www.cse.chalmers.se/edu/year/2010/course/DAT140_Types/Reynolds_typesabpara.pdf)
