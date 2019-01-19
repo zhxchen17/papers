@@ -8,9 +8,13 @@ Classic materials collection on theoretical computer science, or computer system
 
 [Allen, F. E., & Cocke, J. (1976). A program data flow analysis procedure. Communications of the ACM, 19(3), 137.](https://amturing.acm.org/p137-allen.pdf)
 
+[Allman, M., Paxson, V., & Blanton, E. (2009). TCP congestion control (No. RFC 5681).](https://tools.ietf.org/html/rfc5681)
+
 [Barham, P., Dragovic, B., Fraser, K., Hand, S., Harris, T., Ho, A., ... & Warfield, A. (2003, October). Xen and the art of virtualization. In ACM SIGOPS operating systems review (Vol. 37, No. 5, pp. 164-177). ACM.](http://www.cs.yale.edu/homes/yu-minlan/teach/csci599-fall12/papers/xen.pdf)
 
 [Church, A., & Rosser, J. B. (1936). Some properties of conversion. Transactions of the American Mathematical Society, 39(3), 472-482.](https://www.cs.cmu.edu/~crary/819-f09/ChurchRosser36.pdf)
+
+[Clark, C., Fraser, K., Hand, S., Hansen, J. G., Jul, E., Limpach, C., ... & Warfield, A. (2005, May). Live migration of virtual machines. In Proceedings of the 2nd Conference on Symposium on Networked Systems Design & Implementation-Volume 2 (pp. 273-286). USENIX Association.](https://www.usenix.org/publications/library/proceedings/nsdi05/tech/full_papers/clark/clark.pdf)
 
 [Dean, J., & Barroso, L. A. (2013). The tail at scale. Communications of the ACM, 56(2), 74-80.](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf)
 
