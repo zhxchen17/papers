@@ -28,7 +28,11 @@ Classic materials collection on theoretical computer science, or computer system
 
 [Reynolds, J. C. (1983). Types, abstraction and parametric polymorphism.](http://www.cse.chalmers.se/edu/year/2010/course/DAT140_Types/Reynolds_typesabpara.pdf)
 
+[Rosenblum, M., & Ousterhout, J. K. (1992). The design and implementation of a log-structured file system. ACM Transactions on Computer Systems (TOCS), 10(1), 26-52.](http://www.dtic.mil/get-tr-doc/pdf?AD=ADA604306)
+
 [Saltzer, J. H., Reed, D. P., & Clark, D. D. (1984). End-to-end arguments in system design. ACM Transactions on Computer Systems (TOCS), 2(4), 277-288.](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
+
+[Thompson, K. (1984). Reflections on trusting trust. Communications of the ACM, 27(8), 761-763.](https://www.cs.colorado.edu/~jrblack/class/csci6268/s14/p761-thompson.pdf)
 
 # books
 
