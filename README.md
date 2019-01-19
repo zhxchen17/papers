@@ -1,6 +1,6 @@
 # context
 
-Classical materials collection on theoretical computer science, or computer systems research, working in progress.
+Classic materials collection on theoretical computer science, or computer systems research, working in progress.
 
 # papers
 
